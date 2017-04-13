@@ -1,0 +1,8 @@
+{
+	"STT_URL" : "<Insert your Speech-to-Text(STT) URL here>",
+    "STT_username" : "<Insert your STT username here>",
+    "STT_password" : "<Insert your STT password here>",
+    "PI_URL" : "<Insert your Personality Insights(PI) URL here>",
+	"PI_username" : "<Insert your PI username here>",
+	"PI_password" : "<Insert your PI password here>"
+}
